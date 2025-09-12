@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "severity": "info",
+  "message": "New features deployed! Check out our latest updates.",
+  "links": [
+    {
+      "label": "Release Notes",
+      "href": "https://github.com/yourorg/repo/releases"
+    }
+  ]
+}

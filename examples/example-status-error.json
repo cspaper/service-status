@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "severity": "error",
+  "message": "We are experiencing service disruptions due to third-party dependencies. Our team is working to resolve this.",
+  "links": [
+    {
+      "label": "Status Page",
+      "href": "https://status.example.com"
+    },
+    {
+      "label": "Support",
+      "href": "mailto:support@example.com"
+    }
+  ]
+}

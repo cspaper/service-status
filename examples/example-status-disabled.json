@@ -1,0 +1,5 @@
+{
+  "enabled": false,
+  "severity": "info",
+  "message": "This message should not appear."
+}
