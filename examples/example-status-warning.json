@@ -1,1 +1,8 @@
-
+{
+  "enabled": true,
+  "severity": "warning",
+  "message": "Scheduled maintenance on 13 Sep 23:00 – 14 Sep 00:30 CET.",
+  "links": [
+    {"label": "Details", "href": "https://cspaper.org/category/11/announcement"}
+  ]
+}
