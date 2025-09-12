@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "severity": "warning",
-  "message": "Scheduled maintenance on 13 Sep 23:00 – 14 Sep 00:30 CET.",
+  "severity": "info",
+  "message": "We are currently experiencing instability with ArXiv Review due to issues downloading LaTeX source files.",
   "links": [
-    {"label": "Details", "href": "https://cspaper.org/category/11/announcement"}
+    {"label": "Ongoing investigation updates will be posted here.", "href": "https://cspaper.org/category/11/announcement"}
   ]
 }
