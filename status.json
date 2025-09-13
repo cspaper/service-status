@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We are currently experiencing instability with ArXiv Review. PDF Review is working as usual.",
   "links": [
