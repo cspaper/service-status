@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "We are curretnly upgrading the backend.",
+  "message": "We’re currently upgrading our backend. You may experience temporary service interruptions. The update is expected to complete within 30 minutes.",
   "links": [
     {"label": "👉 Details", "href": "https://cspaper.org/category/13/using-cspaper-review-tool-questions-feedback-ideas"}
   ]
