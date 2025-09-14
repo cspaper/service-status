@@ -1,8 +1,8 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "We are currently experiencing instability with ArXiv Review. PDF Review is working as usual.",
+  "message": "We are curretnly upgrading the backend.",
   "links": [
-    {"label": "👉 Details", "href": "https://cspaper.org/topic/148/ongoing-temporary-instability-in-arxiv-paper-review"}
+    {"label": "👉 Details", "href": "https://cspaper.org/category/13/using-cspaper-review-tool-questions-feedback-ideas"}
   ]
 }
