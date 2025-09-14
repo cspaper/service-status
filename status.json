@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "We’re currently upgrading our backend. You may experience temporary service interruptions. The update is expected to complete within 30 minutes.",
+  "message": "We have released V 1.0.5! 🎉",
   "links": [
-    {"label": "👉 Details", "href": "https://cspaper.org/category/13/using-cspaper-review-tool-questions-feedback-ideas"}
+    {"label": "👉 Release Note", "href": "https://cspaper.org/topic/150/release-note-2025-09-14"}
   ]
 }
