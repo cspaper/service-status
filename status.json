@@ -1,8 +1,8 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "We have released V 1.0.5! 🎉",
+  "message": "🚫 PDF Paper Review is Temporarily Unavailable\n\nWe're currently experiencing a parsing failure that is affecting PDF paper reviews. Rest assured, your quota and credits will not be deducted.\n\nOur team is actively working on a fix. Thank you for your patience and understanding.",
   "links": [
-    {"label": "👉 Release Note", "href": "https://cspaper.org/topic/150/release-note-2025-09-14"}
+    {"label": "👉 Details", "href": "https://cspaper.org/topic/151/ongoing-pdf-parsing-is-not-working-at-the-moment"}
   ]
 }
