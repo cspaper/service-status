@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "⚙️ Planned Maintenance: 2025-09-15, 22:30–23:30 CEST. We will be performing scheduled maintenance during this time. Service impact is expected to be minimal.",
   "links": []
