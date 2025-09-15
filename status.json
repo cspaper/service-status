@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "error",
   "message": "We're currently experiencing a parsing failure that is affecting PDF paper reviews. Rest assured, your quota and credits will not be deducted. Our team is actively working on a fix. Thank you for your patience and understanding.",
   "links": [
