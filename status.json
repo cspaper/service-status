@@ -1,8 +1,6 @@
 {
-  "enabled": false,
-  "severity": "error",
-  "message": "We're currently experiencing a parsing failure that is affecting PDF paper reviews. Rest assured, your quota and credits will not be deducted. Our team is actively working on a fix. Thank you for your patience and understanding.",
-  "links": [
-    {"label": "👉 Details", "href": "https://cspaper.org/topic/151/ongoing-pdf-parsing-is-not-working-at-the-moment"}
-  ]
+  "enabled": true,
+  "severity": "info",
+  "message": "⚙️ Planned Maintenance: 2025-09-15, 22:30–23:30 CEST. We will be performing scheduled maintenance during this time. Service impact is expected to be minimal.",
+  "links": []
 }
