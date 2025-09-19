@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "severity": "info",
-  "message": "⚙️ Planned Maintenance: 2025-09-18, 22:30–23:30 CEST. We will be performing scheduled maintenance during this time. Service impact is expected to be minimal.",
+  "enabled": true,
+  "severity": "error",
+  "message": "The backend job pipeline is currently down due to extremely high traffic. We’re actively working on a fix and sincerely apologize for the inconvenience.",
   "links": []
 }
