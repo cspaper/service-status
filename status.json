@@ -1,6 +1,6 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "Backend upgrading going on ... There might be minor interruption of our service.",
+  "message": "Our backend infra might be experiencing some instability; we are monitoring the service state closely.",
   "links": []
 }
