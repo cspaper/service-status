@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "Our backend infra might be experiencing some instability; we are monitoring the service state closely.",
   "links": []
