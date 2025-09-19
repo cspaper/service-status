@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "severity": "error",
-  "message": "The backend job pipeline is currently down due to extremely high traffic. We’re actively working on a fix and sincerely apologize for the inconvenience.",
+  "severity": "warning",
+  "message": "Review result streaming is currently unavailable and showing a “Subscription Error”. Don’t worry — if you wait a little, you can still access your results on the “My Reviews” page. We’re actively working on a fix and sincerely apologize for the inconvenience.",
   "links": []
 }
