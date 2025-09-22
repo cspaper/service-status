@@ -1,6 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "We are performing a minor backend upgrade, the service impact is expected to be minimal.",
+  "message": "We are currently experiencing high traffic. If you notice delays or interruptions, please wait a little longer. If the issue persists, kindly report it to us at support@cspaper.org.",
   "links": []
 }
