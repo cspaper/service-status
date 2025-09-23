@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We are currently performing a minor upgrade of the backend services; the service interruption is expected to be minimal.",
   "links": []
