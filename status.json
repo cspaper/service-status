@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "The AAMAS review agent is currently undergoing benchmarking and is scheduled for release on Tuesday (2025-09-30).",
   "links": []
