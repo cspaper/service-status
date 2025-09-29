@@ -1,6 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "We are currently performing a minor upgrade of the backend services; the service interruption is expected to be minimal.",
+  "message": "The AAMAS review agent is currently undergoing benchmarking and is scheduled for release on Tuesday (2025-09-30).",
   "links": []
 }
