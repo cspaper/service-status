@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "severity": "info",
-  "message": "The AAMAS review agent is currently undergoing benchmarking and is scheduled for release on Tuesday (2025-09-30).",
+  "severity": "warning",
+  "message": "Arxiv paper review is currently unavailable due to an API malfunction, while PDF review remains fully functional.",
   "links": []
 }
