@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "warning",
   "message": "Arxiv paper review is currently unavailable due to an API malfunction, while PDF review remains fully functional, and we will continue monitoring the issue until service is restored.",
   "links": []
