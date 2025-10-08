@@ -1,6 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "Planned upgrade of both frontend and backend systems will take place between 22:30 and 23:59 CEST on Wednesday, 2025/10/08. You may experience minor service interruptions during this time. We apologize for any inconvenience.",
+  "message": "Arxiv paper review may be unavailable currently due to an API malfunction. We will continue monitoring the issue until it's fully functioing again.",
   "links": []
 }
