@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "Planned upgrade of both frontend and backend systems will take place between 22:30 and 23:59 CEST on Wednesday, 2025/10/08. You may experience minor service interruptions during this time. We apologize for any inconvenience.",
   "links": []
