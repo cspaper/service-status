@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "Arxiv paper review may be unavailable currently due to an API malfunction. We will continue monitoring the issue until it's fully functioing again.",
   "links": []
