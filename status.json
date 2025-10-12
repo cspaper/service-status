@@ -1,6 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "Arxiv paper review may be unavailable currently due to an API malfunction. We will continue monitoring the issue until it's fully functioing again.",
+  "message": "The ArXiv API is currently unavailable, which temporarily prevents ArXiv paper reviews from functioning. We’re monitoring the situation and will restore full functionality as soon as access is restored.",
   "links": []
 }
