@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "The ArXiv API is currently unavailable, which temporarily prevents ArXiv paper reviews from functioning. We’re monitoring the situation and will restore full functionality as soon as access is restored.",
   "links": []
