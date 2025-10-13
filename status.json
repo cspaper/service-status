@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "severity": "warning",
-  "message": "We’re investigating an issue in our backend review workflow that’s causing some reviews to stay in PROCESSING status. No action needed—once resolved, we’ll batch-process the queue and correct any incorrect billing statuses. Thanks for your patience.",
+  "severity": "info",
+  "message": "In rare cases, your review may remain in PROCESSING status indefinitely. We’re actively monitoring this issue and working to resolve it. Thank you for your patience and understanding.",
   "links": []
 }
