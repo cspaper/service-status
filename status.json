@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "severity": "info",
-  "message": "The ArXiv API is currently unavailable, which temporarily prevents ArXiv paper reviews from functioning. We’re monitoring the situation and will restore full functionality as soon as access is restored.",
+  "enabled": true,
+  "severity": "warning",
+  "message": "We’re investigating an issue in our backend review workflow that’s causing some reviews to stay in PROCESSING status. No action needed—once resolved, we’ll batch-process the queue and correct any incorrect billing statuses. Thanks for your patience.",
   "links": []
 }
