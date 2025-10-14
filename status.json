@@ -1,6 +1,6 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "In rare cases, your review may remain in PROCESSING status indefinitely. We’re actively monitoring this issue and working to resolve it. Thank you for your patience and understanding.",
+  "message": "If you have hanging jobs that you wanna resolve, you can contact support@cspaper.org for assistance.",
   "links": []
 }
