@@ -1,6 +1,6 @@
 {
   "enabled": false,
   "severity": "info",
-  "message": "If you have hanging paper reviews that need to be resolved, please contact support@cspaper.org for assistance.",
+  "message": "We’ve observed a discrepancy between ICLR’s overall ratings and the content of its reviews. We’re investigating the cause and working on a fix. In the meantime, we recommend relying more on the review text than the overall rating.",
   "links": []
 }
