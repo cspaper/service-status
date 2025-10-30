@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We’ve observed a discrepancy between ICLR’s overall ratings and the content of its reviews. We’re investigating the cause and working on a fix. In the meantime, we recommend relying more on the review text than the overall rating.",
   "links": []
