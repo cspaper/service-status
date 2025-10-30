@@ -1,6 +1,6 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
-  "message": "We’re upgrading our backend — minor service interruptions may occur; the process will finish in about 15 minutes. We apologize for the inconvenience.",
+  "message": "We have fixed ...",
   "links": []
 }
