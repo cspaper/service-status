@@ -1,6 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "We have fixed ...",
+  "message": "The agent workflow for the AAMAS conference is currently experiencing a bug following our recent refactoring. We are actively investigating the issue and expect to deploy a fix soon. We apologize for the inconvenience and appreciate your patience.",
   "links": []
 }
