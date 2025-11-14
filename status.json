@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We’re experiencing unusually high traffic. Some reviews may be temporarily stuck — we’ll reset them shortly and refund any affected quotas or credits.",
   "links": []
