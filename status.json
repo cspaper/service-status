@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "severity": "info",
-  "message": "We’re experiencing unusually high traffic. Some reviews may be temporarily stuck — we’ll reset them shortly and refund any affected quotas or credits.",
+  "enabled": true,
+  "severity": "warning",
+  "message": "Arxiv paper review is not working right now due to Arxiv API error. Please use PDF paper review instead before Arxiv fix their issue. Thanks!",
   "links": []
 }
