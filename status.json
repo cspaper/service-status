@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "severity": "warning",
-  "message": "Arxiv paper review is not working right now due to Arxiv API error. Please use PDF paper review instead before Arxiv fix their issue. Thanks!",
+  "enabled": true,
+  "severity": "info",
+  "message": "CET 22:00 to 22:30: CSPaper will add GPT-5.1 and Gemini-3-Pro into LLM selection and recommendation! Minor service interruption is expected.",
   "links": []
 }
