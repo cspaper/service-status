@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "warning",
   "message": "Arxiv paper review is not working right now due to Arxiv API error. Please use PDF paper review instead before Arxiv fix their issue. Thanks!",
   "links": []
