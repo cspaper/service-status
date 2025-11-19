@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "CET 22:00 to 22:30: CSPaper will add GPT-5.1 and Gemini-3-Pro into LLM selection and recommendation! Minor service interruption is expected.",
   "links": []
