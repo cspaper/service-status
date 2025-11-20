@@ -1,6 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "warning",
-  "message": "PDF OCR service is down right now, we re working on it at the moment. Arxiv paper review is not affected.",
+  "message": "PDF OCR parsing is unstable at the moment, we are monitoring this issue... However, Arxiv paper review is not affected.",
   "links": []
 }
