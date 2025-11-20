@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "GPT-5.1 and Gemini-3-Pro is available as core LLM for review agent workflows now! Give it a try :)",
   "links": []
