@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "PDF OCR parsing is unstable at the moment, we are monitoring this issue... However, Arxiv paper review is not affected.",
   "links": []
