@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "severity": "info",
-  "message": "We just released ICME 2025 Regular Paper track review agent! Welcome to give it a try :)",
+  "severity": "warning",
+  "message": "Gemini 3.0 (Preview) is currently experiencing high load. We are closely monitoring the issue on Google’s side and apologize for the inconvenience.",
   "links": []
 }
