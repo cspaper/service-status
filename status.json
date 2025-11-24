@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "severity": "warning",
-  "message": "Gemini 3.0 (Preview) is currently experiencing high load. We are closely monitoring the issue on Google’s side and apologize for the inconvenience.",
+  "severity": "info",
+  "message": "We recently released review workflow for ICME (regular paper track) and IJCAI (survey track). Welcome to give them a try :)",
   "links": []
 }
