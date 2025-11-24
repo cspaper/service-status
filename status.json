@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We just released ICME 2025 Regular Paper track review agent! Welcome to give it a try :)",
   "links": []
