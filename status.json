@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "warning",
   "message": "Gemini 3.0 (Preview) is currently experiencing high load. We are closely monitoring the issue on Google’s side and apologize for the inconvenience.",
   "links": []
