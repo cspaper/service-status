@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We recently released review workflow for ICME (regular paper track) and IJCAI (survey track). Welcome to give them a try :)",
   "links": []
