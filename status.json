@@ -1,6 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "We recently released review workflow for ICME (regular paper track) and IJCAI (survey track). Welcome to give them a try :)",
+  "message": "We just released review agent for ICC (IEEE International Conference on Communication) technical symposia track!",
   "links": []
 }
