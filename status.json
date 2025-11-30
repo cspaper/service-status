@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We just released review agent for ICC (IEEE International Conference on Communication) technical symposia track!",
   "links": []
