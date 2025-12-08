@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "severity": "info",
-  "message": "We just released review agent for ICC (IEEE International Conference on Communication) technical symposia track!",
+  "enabled": true,
+  "severity": "warning",
+  "message": "We are looking into some temporary availability issues. If you see an Azure Front Door error, please know we’re already working to fix it.",
   "links": []
 }
