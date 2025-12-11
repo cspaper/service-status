@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "warning",
   "message": "We are looking into some temporary availability issues. If you see an Azure Front Door error, please know we’re already working to fix it.",
   "links": []
