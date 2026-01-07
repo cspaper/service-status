@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "severity": "warning",
-  "message": "We are looking into some temporary availability issues. If you see an Azure Front Door error, please know we’re already working to fix it.",
+  "enabled": true,
+  "severity": "info",
+  "message": "If your review appears to be stuck and does not complete, please don’t worry. This can happen when review streaming is interrupted during infrastructure auto-scaling. Our upcoming backend upgrade will resolve this issue. Any affected jobs will be cleared later in batch, and your credits or quota will be fully restored.",
   "links": []
 }
