@@ -1,6 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "If your review appears to be stuck and does not complete, please don’t worry. This can happen when review streaming is interrupted during infrastructure auto-scaling. Our upcoming backend upgrade will resolve this issue. Any affected jobs will be cleared later in batch, and your credits or quota will be fully restored.",
+  "message": "We will perform a backend upgrade to resolve this issue 2026/01/12 CET 22:00 till 23:00. This upgrade will resolve pending job issue during infra scaling; and we are releasing CVPR 2026 review agent at the same time.",
   "links": []
 }
