@@ -1,6 +1,11 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "We will perform a backend upgrade today (2026/01/12) between CET 22:00 and 23:00. This upgrade will resolve pending job issue during infra scaling; and we are releasing CVPR 2026 review agent at the same time.",
-  "links": []
+  "message": "We just released CVPR 2026 review agent, welcome to try it out :)",
+  "links": [
+    {
+      "label": "Quick Link", 
+      "href": "https://cspaper.org/review?venue=CVPR"
+    }
+  ]
 }
