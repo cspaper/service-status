@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We just released CVPR 2026 review agent, welcome to try it out :)",
   "links": [
