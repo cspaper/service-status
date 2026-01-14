@@ -1,11 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "We just released CVPR 2026 review agent, welcome to try it out :)",
-  "links": [
-    {
-      "label": "Quick Link", 
-      "href": "https://cspaper.org/review?venue=CVPR"
-    }
-  ]
+  "message": "The Gemini model may be unavailable during peak usage. We’re improving capacity, and failed reviews will not use any quota or credits.",
+  "links": []
 }
