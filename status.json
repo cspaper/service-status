@@ -1,5 +1,5 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "The Gemini model may be unavailable during peak usage. We’re improving capacity, and failed reviews will not use any quota or credits."
+  "message": "We will perform a backend upgrade this Saturday from 21:30 to 22:30 CET. The upgrade will improve LLM scalability and robustness, add support for GPT-5.2 and Gemini-3-Flash, and introduce the AISTATS 2026 review agent."
 }
