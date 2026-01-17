@@ -1,5 +1,5 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "We will perform a backend upgrade this Saturday from 21:30 to 22:30 CET. The upgrade will improve LLM scalability and robustness, add support for GPT-5.2 and Gemini-3-Flash, and introduce the AISTATS 2026 review agent."
+  "message": "We have improved LLM scalability and robustness, added support for GPT-5.2 and Gemini-3-Flash, and introduced the AISTATS 2026 review agent."
 }
