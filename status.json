@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We have improved LLM scalability and robustness, added support for GPT-5.2 and Gemini-3-Flash, and introduced the AISTATS 2026 review agent."
 }
