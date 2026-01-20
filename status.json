@@ -1,5 +1,5 @@
 {
   "enabled": true,
   "severity": "warning",
-  "message": "We are upgrading out infrastructure to deal with exceptionally high traffic at the moment."
+  "message": "We are upgrading our infrastructure to deal with exceptionally high traffic at the moment."
 }
