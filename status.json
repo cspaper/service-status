@@ -1,5 +1,5 @@
 {
   "enabled": true,
   "severity": "warning",
-  "message": "We are upgrading our infrastructure to deal with exceptionally high traffic at the moment."
+  "message": "If you see “Subscription error: Too many connections”, please do not resubmit your job. It is still processing and will appear on your “My Reviews” page once completed. We are currently upgrading our infrastructure to handle unusually high traffic."
 }
