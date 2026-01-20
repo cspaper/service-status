@@ -1,11 +1,5 @@
 {
   "enabled": true,
-  "severity": "info",
-  "message": "Our benchmarking shows that GPT-5.2 has a higher tendency to desk-reject papers for certain review agents, reflected by its low NMAE score. We therefore recommend selecting LLMs based on our guidance in 'Step 3: Select a Model'. We are actively expanding our benchmarking dataset and evaluation metrics and will provide a more comprehensive view of LLM choices in future updates.",
-  "links": [
-    {
-      "label": "Benchmarking results",
-      "href": "https://cspaper.org/benchmark"
-    }
-  ]
+  "severity": "warning",
+  "message": "We are upgrading out infrastructure to deal with exceptionally high traffic at the moment."
 }
