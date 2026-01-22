@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "During peak traffic, your review request may sit in the queue longer than usual. Sorry about the wait! CSPaper is hunting down funding to (over)scale our infra. We’re also working on a “system load” indicator (current + predicted) to better inform our users."
 }
