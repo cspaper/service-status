@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "Spearman Rank Correlation (SRC) scores are officially released on our latest propritary benchmark dataset currently containing 500 papers.",
+  "message": "Spearman Rank Correlation (SRC) scores are officially released on our latest proprietary benchmark dataset (currently) containing 500 papers.",
   "links": [
     {
       "label": "All Results",
