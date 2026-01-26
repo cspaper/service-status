@@ -1,5 +1,15 @@
 {
-  "enabled": false,
-  "severity": "warning",
-  "message": "We are releasing our latest benchmarking results on Spearman Rank Correlation (SRC) with some minor backend updates. It will take about 30 minutes."
+  "enabled": true,
+  "severity": "info",
+  "message": "Spearman Rank Correlation (SRC) scores are officially released on our latest propritary benchmark dataset currently containing 500 papers.",
+  "links": [
+    {
+      "label": "All Results",
+      "href": "https://cspaper.org/benchmark"
+    },
+    {
+      "label": "You can see venue specific SRC scores on Step-3 when you submit your review",
+      "href": "https://cspaper.org/review"
+    }
+  ]
 }
