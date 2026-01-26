@@ -1,5 +1,5 @@
 {
   "enabled": true,
-  "severity": "info",
-  "message": "🎉 ICLR 2026 decisions are out today! To all cspaper.org users: wishing you the very best of luck 🍀 No matter the outcome, your hard work matters -- fingers crossed for great news and accepted papers! 🚀"
+  "severity": "warning",
+  "message": "We are releasing our latest benchmarking results on Spearman Rank Correlation (SRC) with some minor backend updates. It will take about 30 minutes."
 }
