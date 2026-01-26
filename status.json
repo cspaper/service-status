@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "warning",
   "message": "We are releasing our latest benchmarking results on Spearman Rank Correlation (SRC) with some minor backend updates. It will take about 30 minutes."
 }
