@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "During peak traffic, your review request may sit in the queue longer than usual. Sorry about the wait! CSPaper is hunting down funding to (over)scale our infra. We’re also working on a “system load” indicator (current + predicted) to better inform our users."
+  "message": "🎉 ICLR 2026 decisions are out today! To all cspaper.org users: wishing you the very best of luck 🍀 No matter the outcome, your hard work matters -- fingers crossed for great news and accepted papers! 🚀"
 }
