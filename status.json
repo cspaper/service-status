@@ -1,15 +1,5 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "Spearman Rank Correlation (SRC) scores are officially released on our latest proprietary benchmark dataset (currently) containing 500 papers.",
-  "links": [
-    {
-      "label": "[All results]",
-      "href": "https://cspaper.org/benchmark"
-    },
-    {
-      "label": "[You can also see visualized venue-specific SRCs on Step-3 during review submission]",
-      "href": "https://cspaper.org/review"
-    }
-  ]
+  "message": "🚀 We’ve scaled up our infrastructure to handle the exceptional load over the past two weeks -- best of luck to all CSPaper users with your submissions; and to ICML authors, enjoy a well-earned rest, you deserve it! 🌱✨"
 }
