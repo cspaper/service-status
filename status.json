@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We will perform a minor backend+fronend update today CET 21:30 to 22:00, and we are sorry if it causes trouble for your review jobs during that period of time."
 }
