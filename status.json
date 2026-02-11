@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "We will perform a minor backend+fronend update today CET 21:30 to 22:00, and we are sorry if it causes trouble for your review jobs during that period of time."
+  "message": "We will release the ICME 2026 review agent today between 22:00 and 22:15 CET; we deliberately waited until after the ICME 2026 review deadline to ensure compliance with the official regulations."
 }
