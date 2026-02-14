@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We just released a review agent for ACL 2026 Main Track."
 }
