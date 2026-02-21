@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "🎉🧧 Happy Spring Festival, Dear Researchers! 🎆🎇 We’re celebrating together as we have processed 10B+ input tokens from submitted papers! 🎊 Wishing you a year filled with discovery and success!🚀📚✨"
+  "message": "Hope you’ve got good news from CVPR; if not, our new paper ranking feature and Gemini 3.1 Pro agent may help you crush the next submission; we’re releasing them on Feb 22, 22:00–22:30 (CET)."
 }
