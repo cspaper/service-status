@@ -1,5 +1,11 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "Hope you’ve got good news from CVPR; if not, our new paper ranking feature and Gemini 3.1 Pro agent may help you crush the next submission; we’re releasing them on Feb 22, 22:00–22:30 (CET)."
+  "message": "😊 Paper Review Ranking 📊 and Gemini 3.1 Pro support are now live! May they be your sidekicks on the road to paper acceptance! 🦾",
+  "links": [
+    {
+      "label": "Read about Review Rank",
+      "href": "https://cspaper.org/articles/introducing-review-rank"
+    }
+  ]
 }
