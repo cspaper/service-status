@@ -1,11 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "😊 Paper Review Ranking 📊 and Gemini 3.1 Pro support are now live! May they be your sidekicks on the road to paper acceptance! 🦾",
-  "links": [
-    {
-      "label": "Read about Review Rank",
-      "href": "https://cspaper.org/articles/introducing-review-rank"
-    }
-  ]
+  "message": "In just a few days, we will release review agents for selected journals together with a reference validity check tool. Stay tuned ... "
 }
