@@ -4,16 +4,16 @@
   "message": "We have released Reference Check and Journal Review Agents; welcome to git them a try!",
   "links": [
     {
-      "label": "Reference validity check ==> 📋",
+      "label": "Reference validity check 📋",
       "href": "https://cspaper.org/references-check"
     },{
-      "label": "What is reference validity check? ==> 🔍",
+      "label": "What is reference validity check? 🔍",
       "href": "https://cspaper.org/articles/reference-validity-check"
     },{
-      "label": "Journal: Machine Learning (Springer Nature) ==> 📖",
+      "label": "Journal: Machine Learning (Springer Nature) 📖",
       "href": "https://cspaper.org/review?venue=MLJ"
     },{
-      "label": "Journal: Neurocomputing (Elsevier) ==> 📖",
+      "label": "Journal: Neurocomputing (Elsevier) 📖",
       "href": "https://cspaper.org/review?venue=Neurocomputing"
     }
   ]
