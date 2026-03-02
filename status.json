@@ -1,19 +1,19 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "We have released Reference Check and Journal Review Agents; welcome to give them a try! 🚀",
+  "message": "Every user gets 5 FREE reference checks 🎁 - give it a try!",
   "links": [
     {
-      "label": "Reference validity check 📋",
+      "label": "Reference Check 🔍",
       "href": "https://cspaper.org/references-check"
     },{
-      "label": "What is reference validity check? 🔍",
+      "label": "New: IEEE Conference on Games",
       "href": "https://cspaper.org/articles/reference-validity-check"
     },{
-      "label": "Journal: Machine Learning (Springer Nature) 📖",
+      "label": "New Journal: Machine Learning",
       "href": "https://cspaper.org/review?venue=MLJ"
     },{
-      "label": "Journal: Neurocomputing (Elsevier) 📖",
+      "label": "New Journal: Neurocomputing",
       "href": "https://cspaper.org/review?venue=Neurocomputing"
     }
   ]
