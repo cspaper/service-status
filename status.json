@@ -1,13 +1,13 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "Every user gets 5 FREE reference checks 🎁 - give it a try!",
+  "message": "We are benchmarking GPT-5.4 (with reasoning) right now! The support of GPT-5.4 with benchmark will be released Mar 7, CET 22:30 till 23:00.",
   "links": [
     {
-      "label": "Reference Check 🔍",
+      "label": "New: Reference Check 🔍",
       "href": "https://cspaper.org/references-check"
     },{
-      "label": "New: IEEE Conference on Games",
+      "label": "New: IEEE Conference on Games (CoG)",
       "href": "https://cspaper.org/review?venue=game"
     },{
       "label": "New Journal: Machine Learning",
