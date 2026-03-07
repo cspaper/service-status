@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We are benchmarking GPT-5.4 (with reasoning) right now! The support of GPT-5.4 with benchmark will be released Mar 7, CET 22:30 till 23:00.",
   "links": [
