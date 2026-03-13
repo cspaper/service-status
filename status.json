@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We are aware of an issue in the prompt injection detection step that is causing a high rate of false positives. A patch to address this problem will be deployed between 21:30 and 22:00 CET on 2026-03-13."
 }
