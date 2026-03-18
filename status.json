@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We have released the review agent of ICML 2026 Main Track.",
   "links": [
