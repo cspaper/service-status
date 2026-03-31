@@ -1,5 +1,5 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "New release: OpenPrint, Correctness Check, ESWA journal and KDD26 D&B track agents!"
+  "message": "OpenPrint archives any paper (survey, position, empirical, application ...) approved by an agent you choose."
 }
