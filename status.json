@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "OpenPrint archives any paper (survey, position, application ...) approved by an agent you choose."
 }
