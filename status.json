@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "OpenPrint archives any paper (survey, position, application ...) approved by an agent you choose."
+  "message": "GitHub login is currently experiencing issues, and we’re working on a fix."
 }
