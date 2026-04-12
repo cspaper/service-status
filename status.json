@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "GitHub login is currently unavailable due to a third-party change; in the meantime, please sign in using another methods, and if you have credits tied to your GitHub account, contact support@cspaper.org to transfer them to your new account."
+  "message": "Encountered a PDF OCR error? It’s due to strict parsing requirements — automatic PDF file fixes are now applied in the backend, so please retry your failed review."
 }
