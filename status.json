@@ -1,5 +1,11 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "Encountered a PDF OCR error? It’s due to strict parsing requirements — automatic PDF file fixes are now applied in the backend, so please retry your failed review."
+  "message": "📣 We just released review agent for The Journal of Big Data (Springer Nature).",
+  "links": [
+    {
+      "label": "👉 Try it out",
+      "href": "https://cspaper.org/review?venue=JBD"
+    }
+  ]
 }
