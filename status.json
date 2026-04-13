@@ -1,11 +1,15 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "📣 We just released review agent for The Journal of Big Data (Springer Nature).",
+  "message": "📣 We released review agents for The Journal of Big Data (Springer Nature) and ECML-PKDD 2026 Research Track!",
   "links": [
     {
-      "label": "👉 Try it out",
+      "label": "Review for Journal of Big Data 👉",
       "href": "https://cspaper.org/review?venue=JBD"
+    },
+    {
+      "label": "Review for ECML-PKDD Research Track 👉",
+      "href": "https://cspaper.org/review?venue=ECML-PKDD"
     }
   ]
 }
