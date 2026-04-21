@@ -1,19 +1,5 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "We released review agents for The Journal of Big Data (Springer Nature), IROS 2026 Main Track, and ECML-PKDD 2026 Research Track!",
-  "links": [
-    {
-      "label": "👉 IROS 2026 Main Track",
-      "href": "https://cspaper.org/review?venue=IROS"
-    },
-    {
-      "label": "👉 ECML-PKDD Research Track",
-      "href": "https://cspaper.org/review?venue=ECML-PKDD"
-    },
-    {
-      "label": "👉 Journal of Big Data",
-      "href": "https://cspaper.org/review?venue=JBD"
-    }
-  ]
+  "message": "We plan to release review agents for the journals of TMLR and Scientific Reports this week. Stay tuned ..."
 }
