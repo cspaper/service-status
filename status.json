@@ -1,5 +1,5 @@
 {
   "enabled": true,
   "severity": "warning",
-  "message": "We are experiencing service interruptions right now ... we are working on a fix. Sorry for the inconvenience."
+  "message": "We are experiencing service interruptions right now with OpenAI models ... we are working on a fix. We recommend you to choose Gemini models for now."
 }
