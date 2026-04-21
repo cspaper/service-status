@@ -1,5 +1,5 @@
 {
   "enabled": true,
-  "severity": "info",
-  "message": "We plan to release review agents for the journals of TMLR and Scientific Reports this week. Stay tuned ..."
+  "severity": "warning",
+  "message": "We are experiencing service interruptions right now ... we are working on a fix. Sorry for the inconvenience."
 }
