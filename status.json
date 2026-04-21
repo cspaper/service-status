@@ -1,5 +1,5 @@
 {
   "enabled": true,
   "severity": "warning",
-  "message": "OpenAI (GPT) models are unstable at the moment ... we are closely monitoring the issue. We recommend you to choose Gemini models for now."
+  "message": "The related work analysis is unstable right now, and we are working on a fix. We are sorry for the inconvenience."
 }
