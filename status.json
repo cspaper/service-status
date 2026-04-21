@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "warning",
   "message": "The related work analysis is unstable right now, and we are working on a fix. We are sorry for the inconvenience."
 }
