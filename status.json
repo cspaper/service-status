@@ -1,5 +1,15 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "warning",
-  "message": "We plan to release review agents for the journals of TMLR and Scientific Reports this week. Stay tuned ..."
+  "message": "We released review agents for The Journal of TMLR and Scientific Reports!",
+  "links": [
+    {
+      "label": "👉 TMLR",
+      "href": "https://cspaper.org/review?venue=TMLR"
+    },
+    {
+      "label": "👉 Scientific Reports",
+      "href": "https://cspaper.org/review?venue=SciRep"
+    }
+  ]
 }
