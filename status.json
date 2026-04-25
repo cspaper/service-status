@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "severity": "warning",
+  "severity": "info",
   "message": "We released review agents for The Journal of TMLR and Scientific Reports!",
   "links": [
     {
