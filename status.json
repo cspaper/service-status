@@ -1,15 +1,11 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "We released review agents for The Journal of TMLR and Scientific Reports!",
+  "message": "We have now made our API generally available! Contact support@scholar7.com to request API keys.",
   "links": [
     {
-      "label": "👉 TMLR",
-      "href": "https://cspaper.org/review?venue=TMLR"
-    },
-    {
-      "label": "👉 Scientific Reports",
-      "href": "https://cspaper.org/review?venue=SciRep"
+      "label": "👉 Explore Scholar7 (CSPaper) API Platform",
+      "href": "https://cspaper.org/platform"
     }
   ]
 }
