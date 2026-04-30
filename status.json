@@ -1,11 +1,11 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "We have now made our API generally available! Contact support@scholar7.com to request API keys.",
+  "message": "ICML decisions are out — celebrate the good news, be gentle with the hard news, and take the weekend to breathe. 💙✨",
   "links": [
     {
-      "label": "👉 Explore Scholar7 (CSPaper) API Platform",
-      "href": "https://cspaper.org/platform"
+      "label": "👉 Watch: Why science demands a leap into the unknown",
+      "href": "https://www.ted.com/talks/uri_alon_why_science_demands_a_leap_into_the_unknown"
     }
   ]
 }
