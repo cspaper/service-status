@@ -1,11 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "ICML decisions are out — celebrate the good news, be gentle with the hard news, and take the weekend to breathe. 💙✨",
-  "links": [
-    {
-      "label": "👉 Watch: Why science demands a leap into the unknown",
-      "href": "https://www.ted.com/talks/uri_alon_why_science_demands_a_leap_into_the_unknown"
-    }
-  ]
+  "message": "We’re seeing record-high request volume; while our infra remains elastic, you may notice longer processing times, lower reference-check recall, and related-work quality issues as we monitor and improve service quality over the coming weeks."
 }
