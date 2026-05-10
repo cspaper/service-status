@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We’re seeing record-high request volume; while our infra remains elastic, you may notice longer processing times, lower reference-check recall, and related-work quality issues as we monitor and improve service quality over the coming weeks."
 }
