@@ -1,5 +1,14 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "We’re seeing record-high request volume; while our infra remains elastic, you may notice longer processing times, lower reference-check recall, and related-work quality issues as we monitor and improve service quality over the coming weeks."
+  "message": "Review agents for FAccT 2026 Main track and ICML 2026 Position track have been released! Welcome to try them:",
+  "links": [
+    {
+      "label": "👉 FAccT 2026 Main track",
+      "href": "https://cspaper.org/review?venue=FAccT"
+    },{
+      "label": "👉 ICML 2026 Position track",
+      "href": "https://cspaper.org/review?venue=ICML"
+    }
+  ]
 }
