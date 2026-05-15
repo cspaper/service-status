@@ -1,11 +1,14 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "Review agents for FAccT 2026 Main track and ICML 2026 Position track have been released! Welcome to try them:",
+  "message": "Review agents for FAccT 2026, GFM workshop, and ICML 2026 Position track have been released! Welcome to try them:",
   "links": [
     {
       "label": "👉 FAccT 2026 Main track",
       "href": "https://cspaper.org/review?venue=FAccT"
+    },{
+      "label": "👉 GFM (Graph Foundation Models) Workshop",
+      "href": "https://cspaper.org/review?venue=GFM"
     },{
       "label": "👉 ICML 2026 Position track",
       "href": "https://cspaper.org/review?venue=ICML"
