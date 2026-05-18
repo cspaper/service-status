@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "While we are creating more venue-specific review agents, we're rolling out Idea Check next week — drop in your research idea and see the closest prior work, the methodological landscape, and the open gaps your work could fill."
 }
