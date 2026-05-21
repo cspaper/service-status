@@ -1,5 +1,5 @@
 {
-  "enabled": true,
-  "severity": "warning",
-  "message": "System upgrade ongoging ..."
+  "enabled": false,
+  "severity": "info",
+  "message": "bla"
 }
