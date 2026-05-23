@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "error",
   "message": "The PDF OCR parsing is stalling, we are working on troubleshooting it ... "
 }
