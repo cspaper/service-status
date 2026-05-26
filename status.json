@@ -1,5 +1,5 @@
 {
-  "enabled": false,
-  "severity": "error",
-  "message": "The PDF OCR parsing is stalling, we are working on troubleshooting it ... "
+  "enabled": true,
+  "severity": "info",
+  "message": "We’re planning to release a trial version of the Rebuttal Assistant next week. Stay tuned for early access and feedback opportunities!"
 }
