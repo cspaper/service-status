@@ -1,5 +1,11 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "We’re planning to release a trial version of the Rebuttal Assistant next week. Stay tuned for early access and feedback opportunities!"
+  "message": "🚀 New record: 11,570 requests processed yesterday. Researchers are already using CSPaper for reviews, checks, ranking, related work, Open-Print, and idea validation. The future research workflow is taking shape — and you’re early.",
+  "links": [
+    {
+      "label": "🔗 Follow us on LinkedIn for future announcements.",
+      "href": "https://www.linkedin.com/feed/update/urn:li:activity:7465390093000663040"
+    }
+  ]
 }
