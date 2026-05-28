@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "🚀 New record: 11,570 requests processed yesterday. Researchers are already using CSPaper for reviews, checks and analysis. The future research workflow is taking shape — and you’re early.",
   "links": [
