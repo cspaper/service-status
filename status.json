@@ -1,11 +1,11 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "🚀 New record: 11,570 requests processed yesterday. Researchers are already using CSPaper for reviews, checks and analysis. The future research workflow is taking shape — and you’re early.",
+  "message": "🚀 Need a hand to rebut reviewers of your paper?",
   "links": [
     {
-      "label": "🔗 Follow us on LinkedIn for future announcements.",
-      "href": "https://www.linkedin.com/feed/update/urn:li:activity:7465390093000663040"
+      "label": "🔗 Try Rebutly!",
+      "href": "https://cspaper.org/rebutly"
     }
   ]
 }
