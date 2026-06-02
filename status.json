@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "🚀 Need a hand to rebut reviewers of your paper?",
   "links": [
