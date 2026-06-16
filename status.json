@@ -1,11 +1,11 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "🚀 Need a hand to rebut reviewers of your paper?",
+  "message": "✨ All users now enjoy free Review Rank, 40% more paper capacity, 50% more figure analysis, and 3 free Correctness Checks. Review credits are now a one-time welcome benefit.",
   "links": [
     {
-      "label": "🔗 Try Rebutly!",
-      "href": "https://cspaper.org/rebutly"
+      "label": "🔗 Read more about why we've made this change.",
+      "href": "https://cspaper.org/articles/more-headroom-an-honest-update"
     }
   ]
 }
