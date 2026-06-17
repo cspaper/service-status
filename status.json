@@ -1,10 +1,18 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "✨ All users now enjoy FREE Review Rank, 40% more paper capacity, 50% more figure analysis, and 3 free Correctness Checks. Review credits are now a one-time welcome benefit.",
+  "message": "🚀 Better Potentially Missing Related Work, now in every review. 🌙 Dark Mode is live. Try the latest update today.",
   "links": [
     {
-      "label": "🔗 Read more about why we've made this change.",
+      "label": "👉 Rebutly: your rebuttal assistent",
+      "href": "https://cspaper.org/articles/introducing-rebutly"
+    },
+    {
+      "label": "👉 Idea Check: verify your research idea, early!",
+      "href": "https://cspaper.org/articles/introducing-idea-check"
+    },
+    {
+      "label": "👉 Update: free tier entitlement",
       "href": "https://cspaper.org/articles/more-headroom-an-honest-update"
     }
   ]
