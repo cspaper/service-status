@@ -1,19 +1,11 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "🚀 Better Potentially Missing Related Work, now in every review. 🌙 Dark Mode is live. Try the latest update today.",
+  "message": "You can now optionally skip the desk rejection assessment when using the ICLR, NeurIPS, CVPR, ACL, and EMNLP review agents (at Step 3 Select a model). We’ve also released the NeurIPS 2026 Main Track Review Agent. Feel free to give them a try!",
   "links": [
     {
-      "label": "👉 Rebutly: your rebuttal assistent",
-      "href": "https://cspaper.org/articles/introducing-rebutly"
-    },
-    {
-      "label": "👉 Idea Check: verify your research idea, early!",
-      "href": "https://cspaper.org/articles/introducing-idea-check"
-    },
-    {
-      "label": "👉 Update: free tier entitlement",
-      "href": "https://cspaper.org/articles/more-headroom-an-honest-update"
+      "label": "👉 NeurIPS 2026 Main Track review agent",
+      "href": "https://cspaper.org/review?venue=NeurIPS"
     }
   ]
 }
