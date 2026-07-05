@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "You can now optionally skip the desk rejection assessment when using the ICLR, NeurIPS, CVPR, ACL, and EMNLP review agents (at Step 3 Select a model). We’ve also released the NeurIPS 2026 Main Track Review Agent. Feel free to give them a try!",
   "links": [
