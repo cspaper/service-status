@@ -1,11 +1,19 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "Need more credits? Archive your paper on OpenPrint and earn 5 credits for every paper you make public.",
+  "message": "Transactions on Machine Learning Research (TMLR) selected CSPaper (a part of Scholar7) as the AI reviewer for its soundness pilot: one AI review per submission, chosen after an independent evaluation.",
   "links": [
     {
-      "label": "👉 Learn how OpenPrint works",
-      "href": "https://cspaper.org/articles/introducing-openprint"
+      "label": "👉 Read the full story and the numbers",
+      "href": "https://cspaper.org/articles/tmlr-selects-cspaper"
+    },
+    {
+      "label": "📣 TMLR's official announcement",
+      "href": "https://medium.com/@TmlrOrg/ai-reviews-at-tmlr-for-assessing-soundness-4405d7813cc8"
+    },
+    {
+      "label": "📄 The full evaluation report (PDF)",
+      "href": "https://www.cs.cmu.edu/~nihars/preprints/TMLR_AI_reviewer_evals.pdf"
     }
   ]
 }
