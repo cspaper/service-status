@@ -1,5 +1,5 @@
 {
   "enabled": true,
   "severity": "error",
-  "message": "PDF OCR parsing is currently experiencing issues. We are actively investigating the root cause and working to restore the service as quickly as possible. Thank you for your patience."
+  "message": "PDF OCR parsing is currently experiencing issues. We have identified the root cause, and working on a fix. Thank you for your patience."
 }
