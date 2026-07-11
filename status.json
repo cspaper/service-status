@@ -1,19 +1,15 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "Transactions on Machine Learning Research (TMLR) selected CSPaper (a part of Scholar7) as the AI reviewer for its soundness pilot: one AI review per submission, chosen after an independent evaluation.",
+  "message": "New: Code Check is live. Point it at your paper's GitHub repository or a zip of its code and get an evidence-backed audit of every method claim: what the code implements faithfully, where it differs, and what is missing. Your first three checks are free.",
   "links": [
     {
-      "label": "👉 Read the full story and the numbers",
-      "href": "https://cspaper.org/articles/tmlr-selects-cspaper"
+      "label": "👉 Read the launch article and the results",
+      "href": "https://cspaper.org/articles/code-check"
     },
     {
-      "label": "📣 TMLR's official announcement",
-      "href": "https://medium.com/@TmlrOrg/ai-reviews-at-tmlr-for-assessing-soundness-4405d7813cc8"
-    },
-    {
-      "label": "📄 The full evaluation report (PDF)",
-      "href": "https://www.cs.cmu.edu/~nihars/preprints/TMLR_AI_reviewer_evals.pdf"
+      "label": "🧪 Try Code Check now",
+      "href": "https://cspaper.org/code-check"
     }
   ]
 }
