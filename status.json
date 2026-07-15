@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "New: Code Check is live. Point it at your paper's GitHub repository or a zip of its code and get an evidence-backed audit of every method claim: what the code implements faithfully, where it differs, and what is missing. Your first three checks are free.",
   "links": [
