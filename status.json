@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "warning",
-  "message": "GPT-5.4 is currently experiencing an issue. We are working to resolve it as quickly as possible. In the meantime, we recommend temporarily using a different LLM.",
+  "message": "GPT-5.4 is currently experiencing an issue. We are working to resolve it as quickly as possible. In the meantime, we recommend temporarily using a different LLM."
 }
