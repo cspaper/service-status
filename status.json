@@ -1,15 +1,5 @@
 {
-  "enabled": false,
-  "severity": "info",
-  "message": "New: Code Check is live. Point it at your paper's GitHub repository or a zip of its code and get an evidence-backed audit of every method claim: what the code implements faithfully, where it differs, and what is missing. Your first three checks are free.",
-  "links": [
-    {
-      "label": "👉 Read the launch article and the results",
-      "href": "https://cspaper.org/articles/code-check"
-    },
-    {
-      "label": "🧪 Try Code Check now",
-      "href": "https://cspaper.org/code-check"
-    }
-  ]
+  "enabled": true,
+  "severity": "warning",
+  "message": "GPT-5.4 is currently experiencing an issue. We are working to resolve it as quickly as possible. In the meantime, we recommend temporarily using a different LLM.",
 }
