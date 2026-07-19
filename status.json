@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "We are currently benchmarking GPT-5.6 and GLM-5 models, and we expect to release support of these two models soon."
 }
