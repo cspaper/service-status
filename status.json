@@ -1,5 +1,15 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "We are currently benchmarking GPT-5.6 and GLM-5 models, and we expect to release support of these two models soon."
+  "message": "🚀 GPT-5.6-Terra and GLM-5V-Turbo are now available on our platform.",
+  "links": [
+    {
+      "label": "📊 View benchmarks",
+      "href": "https://cspaper.org/benchmark"
+    },
+    {
+      "label": "🧪 Try GPT-5.6-Terra or GLM-5V-Turbo in your review",
+      "href": "https://cspaper.org/review"
+    }
+  ]
 }
