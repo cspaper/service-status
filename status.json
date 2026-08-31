@@ -1,14 +1,14 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "🚀 GPT-5.6-Terra and GLM-5V-Turbo are now available on our platform.",
+  "message": "🚀 Gemini-3.7-Flash and GLM-5.3-Flash are now available on our platform. Review agents for AAAI 2027, AI4MetaScience 2026 (NeurIPS) and DocInsights 2026 (EMNLP) are online.",
   "links": [
     {
-      "label": "📊 View benchmarks summary",
-      "href": "https://cspaper.org/articles/gpt-5-6-terra-glm-5v-turbo-benchmark"
+      "label": "📊 View latest benchmarks",
+      "href": "https://cspaper.org/benchmark"
     },
     {
-      "label": "🧪 Try GPT-5.6-Terra or GLM-5V-Turbo in your review",
+      "label": "🧪 Try Gemini-3.7-Flash or GLM-5.3-Flash in your review",
       "href": "https://cspaper.org/review"
     }
   ]
