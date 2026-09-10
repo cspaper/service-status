@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "🚀 Gemini-3.7-Flash and GLM-5.3-Flash are now available on our platform. Review agents for AAAI 2027, AI4MetaScience 2026 (NeurIPS) and DocInsights 2026 (EMNLP) are online.",
   "links": [
