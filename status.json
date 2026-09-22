@@ -1,15 +1,15 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "🚀 Gemini-3.7-Flash and GLM-5.3-Flash are now available on our platform. Review agents for AAAI 2027, AI4MetaScience 2026 (NeurIPS) and DocInsights 2026 (EMNLP) are online.",
+  "message": "🧪 New agent category: method agents. Our first one is ARD-Review, an open-source review pipeline from external researchers, now hosted on CSPaper. A harsh critic surfaces every weakness, an adversarial merger filters out the noise, and your score is calibrated against 13,000+ human-reviewed papers — with the best scoring accuracy among non-commercial systems and an 85.53% review-validity win rate on ICLR 2026 data. Let it predict your paper's fate before the reviewers do.",
   "links": [
     {
-      "label": "📊 View latest benchmarks",
-      "href": "https://cspaper.org/benchmark"
+      "label": "📖 Read how ARD-Review works",
+      "href": "https://cspaper.org/articles/ard-review-method-agent"
     },
     {
-      "label": "🧪 Try Gemini-3.7-Flash or GLM-5.3-Flash in your review",
-      "href": "https://cspaper.org/review"
+      "label": "🔮 Predict your paper's fate with ARD-Review",
+      "href": "https://cspaper.org/review?venue=ARD-Review"
     }
   ]
 }
