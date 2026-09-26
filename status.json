@@ -1,15 +1,15 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "🧪 New agent category: method agents. Our first one is ARD-Review, an open-source review pipeline from external researchers, now hosted on CSPaper. A harsh critic surfaces every weakness, an adversarial merger filters out the noise, and your score is calibrated against 13,000+ human-reviewed papers — with the best scoring accuracy among non-commercial systems and an 85.53% review-validity win rate on ICLR 2026 data. Let it predict your paper's fate before the reviewers do.",
+  "message": "🧭 New: Open Problems. Browse 170+ research problems that at least three papers independently report as limitations of their own work, found by automated analysis of 128,730 papers from venues such as NeurIPS, ICML, ICLR, CVPR and ACL. Each one comes with why it matters, concrete ways to approach it, and the papers behind it. Found a direction you like? Run a free prior-work check on any listed approach, or on your own idea, to see whether someone has already done it. Treat each problem as a lead to investigate, not a guaranteed gap.",
   "links": [
     {
-      "label": "📖 Read how ARD-Review works",
-      "href": "https://cspaper.org/articles/ard-review-method-agent"
+      "label": "🧭 Explore open problems",
+      "href": "https://cspaper.org/open-problems"
     },
     {
-      "label": "🔮 Predict your paper's fate with ARD-Review",
-      "href": "https://cspaper.org/review?venue=ARD-Review"
+      "label": "🚧 See barriers waiting to be removed",
+      "href": "https://cspaper.org/open-problems?type=precondition"
     }
   ]
 }
