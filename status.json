@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "severity": "info",
   "message": "🧭 New: Open Problems. Browse 170+ research problems that at least three papers independently report as limitations of their own work, found by automated analysis of 128,730 papers from venues such as NeurIPS, ICML, ICLR, CVPR and ACL. Each one comes with why it matters, concrete ways to approach it, and the papers behind it. Found a direction you like? Run a free prior-work check on any listed approach, or on your own idea, to see whether someone has already done it. Treat each problem as a lead to investigate, not a guaranteed gap.",
   "links": [
