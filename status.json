@@ -1,15 +1,11 @@
 {
-  "enabled": false,
+  "enabled": true,
   "severity": "info",
-  "message": "🧭 New: Open Problems. Browse 170+ research problems that at least three papers independently report as limitations of their own work, found by automated analysis of 128,730 papers from venues such as NeurIPS, ICML, ICLR, CVPR and ACL. Each one comes with why it matters, concrete ways to approach it, and the papers behind it. Found a direction you like? Run a free prior-work check on any listed approach, or on your own idea, to see whether someone has already done it. Treat each problem as a lead to investigate, not a guaranteed gap.",
+  "message": "🎉 CSPaper is now correctness-checking for TMLR! Every new submission gets a CSPaper soundness review alongside human reviews, with Action Editors making the final call.",
   "links": [
     {
-      "label": "🧭 Explore open problems",
-      "href": "https://cspaper.org/open-problems"
-    },
-    {
-      "label": "🚧 See barriers waiting to be removed",
-      "href": "https://cspaper.org/open-problems?type=precondition"
+      "label": "Read the announcement",
+      "href": "https://cspaper.org/articles/tmlr-selects-cspaper"
     }
   ]
 }
