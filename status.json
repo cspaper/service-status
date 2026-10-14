@@ -1,11 +1,15 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "🎉 CSPaper is now correctness-checking for TMLR! Every new submission gets a CSPaper soundness review alongside human reviews, with Action Editors making the final call.",
+  "message": "The AISTATS 2027 Author Self-Check Agent is now available! And ... 🚀 You can continue to iterate on and improve your review by selecting the section you would like to revise.",
   "links": [
     {
-      "label": "Read the announcement",
-      "href": "https://cspaper.org/articles/tmlr-selects-cspaper"
+      "label": "Try the AISTATS 2027 Author Self-Check Agent",
+      "href": "https://cspaper.org/review?venue=AISTATS"
+    },
+    {
+      "label": "Select any review result and iterate on it with your input",
+      "href": "https://cspaper.org/reviews"
     }
   ]
 }
