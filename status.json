@@ -1,15 +1,11 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "The AISTATS 2027 Author Self-Check Agent is now available! And ... 🚀 You can continue to iterate on and improve your review by selecting the section you would like to revise.",
+  "message": "The ICLR 2027 Agent is now available!",
   "links": [
     {
-      "label": "Try the AISTATS 2027 Author Self-Check Agent",
-      "href": "https://cspaper.org/review?venue=AISTATS"
-    },
-    {
-      "label": "Select any review result and iterate on it with your input",
-      "href": "https://cspaper.org/reviews"
+      "label": "Try it out",
+      "href": "https://cspaper.org/review?venue=ICLR"
     }
   ]
 }
