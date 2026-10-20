@@ -1,11 +1,11 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "The ICLR 2027 Agent is now available!",
+  "message": "The ICLR 2027 Agent is now available, welcome to try it out!",
   "links": [
     {
-      "label": "Try it out",
-      "href": "https://cspaper.org/review?venue=ICLR"
+      "label": "💡 An engineering trick in PDF parsing: reduce time and cost for PDF OCR.",
+      "href": "https://cspaper.org/articles/page-level-reuse"
     }
   ]
 }
