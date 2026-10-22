@@ -1,11 +1,15 @@
 {
   "enabled": true,
   "severity": "info",
-  "message": "The ICLR 2027 Agent is now available, welcome to try it out!",
+  "message": "🔈 The first Anthropic model (Claude Sonnet 5.5) is benchmarked and supported!",
   "links": [
     {
-      "label": "💡 An engineering trick in PDF parsing: reduce time and cost for PDF OCR.",
-      "href": "https://cspaper.org/articles/page-level-reuse"
+      "label": "Latest benmarking results.",
+      "href": "https://cspaper.org/benchmark"
+    },
+    {
+      "label": "Try using Claude Sonnet 5.5 as a foundation model for your review.",
+      "href": "https://cspaper.org/reviews"
     }
   ]
 }
